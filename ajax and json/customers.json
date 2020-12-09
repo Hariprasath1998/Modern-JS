@@ -1,0 +1,25 @@
+[{
+        "id": 1,
+        "name": "John Doe",
+        "company": "123 designs",
+        "phone": "555-555-5555"
+    },
+    {
+        "id": 2,
+        "name": "Tony stark",
+        "company": "Warner bros",
+        "phone": "798-567-9910"
+    },
+    {
+        "id": 3,
+        "name": "Natasha romanoff",
+        "company": "Stark",
+        "phone": "121-892-4278"
+    },
+    {
+        "id": 4,
+        "name": "Mark Manson",
+        "company": "Export",
+        "phone": "129-478-9090"
+    }
+]
